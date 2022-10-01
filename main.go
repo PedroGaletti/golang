@@ -24,6 +24,7 @@ func main() {
 
 	// Loops funcs
 	loops.Loops()
+	loops.While()
 
 	// Maths funcs
 	maths.Maths()
