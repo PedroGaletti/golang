@@ -19,10 +19,10 @@ $PROJECT_ROOT
 ├── conditional # To study the conditionals and logical operators
 ├── datatype # To study the datatypes that are possible to use in Golang
 ├── loops # To study how to use the loops in Golang
-├── math # To study what I can do with the math lib of Golang
-├── rune # To study this specific datatype (rune) in Golang
-├── string # To study all I can learn about the strings in Golang
+├── maths # To study what I can do with the math lib of Golang
+├── runes # To study this specific datatype (rune) in Golang
+├── strings # To study all I can learn about the strings in Golang
 ├── terminal # To study how I can use the terminal and capture things from it
-├── time # To study the time lib in Golang
+├── times # To study the time lib in Golang
 └── main.go # Entry point
 ```
