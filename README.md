@@ -14,6 +14,7 @@ I put these contents:
 
 ```
 $PROJECT_ROOT
+├── comment # To study how works with comments
 ├── conditional # To study the conditionals and logical operators
 ├── datatype # To study the datatypes that are possible to use in Golang
 ├── loops # To study how to use the loops in Golang
