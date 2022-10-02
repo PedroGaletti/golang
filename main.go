@@ -6,8 +6,10 @@ import (
 	"golang/arrays"
 	"golang/conditional"
 	"golang/datatype"
+	"golang/functions"
 	"golang/loops"
 	"golang/maths"
+	"golang/pointers"
 	"golang/runes"
 	"golang/slices"
 	"golang/strings"
@@ -24,6 +26,9 @@ func main() {
 	datatype.ConvertDataTypes()
 	datatype.PrintDataTypes()
 
+	// Functions funcs
+	functions.Main()
+
 	// Conditional funcs
 	conditional.IfConditionals()
 
@@ -35,6 +40,9 @@ func main() {
 	// Maths funcs
 	maths.Maths()
 	maths.RandomNumbers()
+
+	// Pointers funcs
+	pointers.Pointers()
 
 	// Runes funcs
 	runes.Runes()
