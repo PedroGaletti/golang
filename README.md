@@ -20,6 +20,7 @@ $PROJECT_ROOT
 ├── comment # To study how works with comments
 ├── conditional # To study the conditionals and logical operators
 ├── datatype # To study the datatypes that are possible to use in Golang
+├── fileio # To study how manage files using Golang
 ├── functions # To study how to create functions and work with params
 ├── loops # To study how to use the loops in Golang
 ├── maths # To study what I can do with the math lib of Golang

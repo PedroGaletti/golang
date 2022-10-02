@@ -6,6 +6,7 @@ import (
 	"golang/arrays"
 	"golang/conditional"
 	"golang/datatype"
+	"golang/fileio"
 	"golang/functions"
 	"golang/loops"
 	"golang/maths"
@@ -26,6 +27,10 @@ func main() {
 	datatype.ConvertDataTypes()
 	datatype.PrintDataTypes()
 
+	// Fileio funcs
+	fileio.Files()
+	fileio.IfFileExistsWrite()
+
 	// Functions funcs
 	functions.Main()
 
@@ -43,6 +48,7 @@ func main() {
 
 	// Pointers funcs
 	pointers.Pointers()
+	pointers.ArrayPointers()
 
 	// Runes funcs
 	runes.Runes()
@@ -56,6 +62,7 @@ func main() {
 
 	// Terminal funcs
 	terminal.GetUsername()
+	terminal.Use()
 
 	// Times funcs
 	times.Times()

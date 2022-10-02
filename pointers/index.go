@@ -20,6 +20,33 @@ func Pointers() {
 	fmt.Println("Val after func: ", val)  // Return the value of var val 12
 }
 
-func ArrayPointers() {
+func dblArrVals(arr *[4]int) {
+	x := 0
+	for x < 4 {
+		arr[x] *= 2
+	}
+}
 
+func average(nums ...float64) float64 {
+	// It's not possible divide float64 / int
+	// Need be float64 / float64
+
+	var sum float64 = 0.0
+	var size float64 = float64(len(nums)) // Transform size to float64
+
+	for _, val := range nums {
+		sum += val
+	}
+
+	return sum / size
+}
+
+func ArrayPointers() {
+	arr := [4]int{1, 2, 3, 4}
+	dblArrVals(&arr) // Pass the pointer array
+	fmt.Println(arr) // [2, 4, 6, 8]
+
+	// Passing a slice in an function
+	slice := []float64{11, 13, 17}
+	fmt.Printf("Average: %.3f\n", average(slice...))
 }
