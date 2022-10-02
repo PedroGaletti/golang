@@ -57,3 +57,10 @@ func While() {
 		}
 	}
 }
+
+func Ranges() {
+	nums := []int{1, 2, 3}
+	for _, num := range nums {
+		fmt.Println(num)
+	}
+}
