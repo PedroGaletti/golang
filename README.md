@@ -14,24 +14,20 @@ This repository is dedicated to my Golang study, but if you want to contribute w
 
 I put these contents:
 
-```
-$PROJECT_ROOT
-├── arrays # To study how works with arrays
-├── comment # To study how works with comments
-├── conditional # To study the conditionals and logical operators
-├── datatype # To study the datatypes that are possible to use in Golang
-├── fileio # To study how manage files using Golang
-├── functions # To study how to create functions and work with params
-├── loops # To study how to use the loops in Golang
-├── maths # To study what I can do with the math lib of Golang
-├── pointers # To study how manage pointers and vars in Golang
-├── runes # To study this specific datatype (rune) in Golang
-├── slices # To study how I can use the slices in Golang
-├── strings # To study all I can learn about the strings in Golang
-├── terminal # To study how I can use the terminal and capture things from it
-├── times # To study the time lib in Golang
-└── main.go # Entry point
-```
+- [arrays](https://github.com/PedroGaletti/golang/tree/main/arrays) - To study how works with arrays
+- [comment](https://github.com/PedroGaletti/golang/tree/main/comment) - To study how works with comments
+- [conditional](https://github.com/PedroGaletti/golang/tree/main/conditional) - To study the conditionals and logical operators
+- [datatype](https://github.com/PedroGaletti/golang/tree/main/datatype) - To study the datatypes that are possible to use in Golang
+- [fileio](https://github.com/PedroGaletti/golang/tree/main/fileio) - To study how manage files using Golang
+- [functions](https://github.com/PedroGaletti/golang/tree/main/functions) - To study how to create functions and work with params
+- [loops](https://github.com/PedroGaletti/golang/tree/main/loops) - To study how to use the loops in Golang
+- [maths](https://github.com/PedroGaletti/golang/tree/main/maths) - To study what I can do with the math lib of Golang
+- [pointers](https://github.com/PedroGaletti/golang/tree/main/pointers) - To study how manage pointers and vars in Golang
+- [runes](https://github.com/PedroGaletti/golang/tree/main/runes) - To study this specific datatype (rune) in Golang
+- [slices](https://github.com/PedroGaletti/golang/tree/main/slices) - To study how I can use the slices in Golang
+- [strings](https://github.com/PedroGaletti/golang/tree/main/strings) - To study all I can learn about the strings in Golang
+- [terminal](https://github.com/PedroGaletti/golang/tree/main/terminal) - To study how I can use the terminal and capture things from it
+- [times](https://github.com/PedroGaletti/golang/tree/main/times) - To study the time lib in Golang
 
 ## Gists
 
