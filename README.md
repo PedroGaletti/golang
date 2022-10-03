@@ -27,6 +27,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - To study how I can use the terminal and capture things from it
 - [Times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
 - [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
+- [.GitIgnore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - A exemple of .gitignore file to golang
 
 ## Gists
 

@@ -50,34 +50,35 @@ func changeMyVarWithPointer(myVar *int) int {
 }
 
 func Functions() {
+	fmt.Println("\nFunctions func: ")
 	// Simple function
 	result := sum(1, 2)
-	fmt.Println(result) // 3
+	fmt.Println(result) // Print: 3
 
 	// Return more than one values in the function
 	first, second := returnTwoValues(1, 2)
-	fmt.Println(first, second) // 2, 3
+	fmt.Println(first, second) // Print: 2, 3
 
 	// Functions can return errors
 	val, err := quotient(5, 4)
-	fmt.Println("val", val) // 1.25
-	fmt.Println("err", err) // nil
+	fmt.Println("val", val) // Print: val 1.25
+	fmt.Println("err", err) // Print: err <nil>
 
-	fmt.Println(sums(1, 2, 3, 4, 5)) // 15
+	fmt.Println(sums(1, 2, 3, 4, 5)) // Print: 15
 
 	// Array pass to function
-	fmt.Println(arraySum([]int{1, 2, 3, 4, 5})) // 15
+	fmt.Println(arraySum([]int{1, 2, 3, 4, 5})) // Print: 15
 
 	// Functions don't change the original value of var outside like:
 	myVar := 1
-	fmt.Println("myVar before func changeMyVar: ", myVar) // 1
-	fmt.Println(changeMyVar(myVar))                       // 2
-	fmt.Println("myVar after func changeMyVar: ", myVar)  // 1
+	fmt.Println("myVar before func changeMyVar: ", myVar) // Print: 1
+	fmt.Println(changeMyVar(myVar))                       // Print: 2
+	fmt.Println("myVar after func changeMyVar: ", myVar)  // Print: 1
 
 	// But with an pointer we can change the original value:
-	fmt.Println("myVar before func changeVarWithPointer: ", myVar) // 1
-	fmt.Println(changeMyVarWithPointer(&myVar))                    // 6
-	fmt.Println("myVar after func changeVarWithPointer: ", myVar)  // 6
+	fmt.Println("myVar before func changeVarWithPointer: ", myVar) // Print: 1
+	fmt.Println(changeMyVarWithPointer(&myVar))                    // Print: 6
+	fmt.Println("myVar after func changeVarWithPointer: ", myVar)  // Print: 6
 }
 
 func main() {

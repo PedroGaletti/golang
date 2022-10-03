@@ -13,7 +13,7 @@ func GetUsername() { // Working with the terminal
 	reader := bufio.NewReader(os.Stdin)  // Get something from user keyboard
 	name, err := reader.ReadString('\n') // Read what the user typed
 	if err == nil {                      // Check if has error
-		fmt.Println("Hello", name) // Print Hello, name
+		fmt.Println("Hello", name) // Print: Hello ${name}
 	} else {
 		log.Fatal(err) // Log
 	}
@@ -41,7 +41,7 @@ func Use() {
 		}
 	}
 
-	fmt.Println("Max value: ", max)
+	fmt.Println("Max value: ", max) // Print the max value of the values that you passed in the terminal
 }
 
 func main() {

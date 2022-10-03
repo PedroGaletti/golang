@@ -2,11 +2,13 @@ package main
 
 import "fmt"
 
+/*
+	Conditional operators: > < >= <= == !=
+	Logical operators: && || !
+*/
+
 func IfConditionals() {
-	/*
-		Conditional operators: > < >= <= == !=
-		Logical operators: && || !
-	*/
+	fmt.Println("\nIfConditionals func: ")
 
 	iAge := 8
 	if (iAge >= 1) && (iAge <= 18) {

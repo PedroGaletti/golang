@@ -17,16 +17,20 @@ import (
 func Loops() {
 	fmt.Println("\nLoops func:")
 	for x := 1; x <= 5; x++ {
-		fmt.Println(x)
+		fmt.Print(x) // Print: 1 2 3 4 5
 	}
 
+	fmt.Printf("\n") // Just to separate the logs
+
 	for x := 5; x >= 1; x-- {
-		fmt.Println(x)
+		fmt.Print(x) // Print: 5 4 3 2 1
 	}
+
+	fmt.Printf("\n") // Just to separate the logs
 
 	fx := 0
 	for fx < 5 {
-		fmt.Println(fx)
+		fmt.Print(fx) // Print: 0 1 2 3 4
 		fx++
 	}
 }
@@ -66,8 +70,10 @@ func Ranges() {
 	fmt.Println("\nRanges func:")
 	nums := []int{1, 2, 3}
 	for _, num := range nums {
-		fmt.Println(num)
+		fmt.Print(num) // Print: 1 2 3
 	}
+
+	fmt.Printf("\n") // Just to separate the logs
 }
 
 func main() {
