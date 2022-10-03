@@ -1,4 +1,4 @@
-package datatype
+package main
 
 import (
 	"fmt"
@@ -59,4 +59,10 @@ func PrintDataTypes() {
 	fmt.Printf("%9.f\n", 3.141592)         // Nine space in the start
 	sp1 := fmt.Sprintf("%9.f\n", 3.141592) // Nine space in the start
 	fmt.Println(sp1)                       // Print
+}
+
+func main() {
+	MainDataTypes()
+	ConvertDataTypes()
+	PrintDataTypes()
 }

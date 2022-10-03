@@ -1,4 +1,4 @@
-package functions
+package main
 
 import "fmt"
 
@@ -49,7 +49,7 @@ func changeMyVarWithPointer(myVar *int) int {
 	return *myVar + 5
 }
 
-func Main() {
+func Functions() {
 	// Simple function
 	result := sum(1, 2)
 	fmt.Println(result) // 3
@@ -78,4 +78,8 @@ func Main() {
 	fmt.Println("myVar before func changeVarWithPointer: ", myVar) // 1
 	fmt.Println(changeMyVarWithPointer(&myVar))                    // 6
 	fmt.Println("myVar after func changeVarWithPointer: ", myVar)  // 6
+}
+
+func main() {
+	Functions()
 }

@@ -1,4 +1,4 @@
-package fileio
+package main
 
 import (
 	"bufio"
@@ -79,4 +79,14 @@ func Files() {
 	if err := scan.Err(); err != nil {
 		log.Fatal(err)
 	}
+}
+
+func DeleteFile() {
+
+}
+
+func main() {
+	Files()
+	IfFileExistsWrite()
+	DeleteFile()
 }

@@ -1,4 +1,4 @@
-package conditional
+package main
 
 import "fmt"
 
@@ -20,4 +20,8 @@ func IfConditionals() {
 	}
 
 	fmt.Println("!true = ", !true)
+}
+
+func main() {
+	IfConditionals()
 }

@@ -12,4 +12,4 @@ run:
 clean:
 	@rm -rf ./vendor
 	@rm -rf ./go.sum
-	@rm -rf ./golang
+	@rm -rf ./module

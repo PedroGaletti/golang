@@ -1,4 +1,4 @@
-package pointers
+package main
 
 import "fmt"
 
@@ -24,6 +24,7 @@ func dblArrVals(arr *[4]int) {
 	x := 0
 	for x < 4 {
 		arr[x] *= 2
+		x++
 	}
 }
 
@@ -49,4 +50,9 @@ func ArrayPointers() {
 	// Passing a slice in an function
 	slice := []float64{11, 13, 17}
 	fmt.Printf("Average: %.3f\n", average(slice...))
+}
+
+func main() {
+	Pointers()
+	ArrayPointers()
 }

@@ -1,4 +1,4 @@
-package slices
+package main
 
 import "fmt"
 
@@ -33,9 +33,11 @@ func SlicesDataTypes() {
 
 	arr := [5]int{1, 2, 3, 4, 5}
 	vSlice := arr[0:2]
-	fmt.Println("1st 2: ", arr[0:2]) // [1, 2]
-	fmt.Println("1st 3: ", arr[:3])  // [1, 2, 3]
-	fmt.Println("Last 3: ", arr[2:]) // [3, 4, 5]
+	fmt.Println("1st 2: ", arr[0:2])                         // [1, 2]
+	fmt.Println("1st 3: ", arr[:3])                          // [1, 2, 3]
+	fmt.Println("Last 3: ", arr[2:])                         // [3, 4, 5]
+	fmt.Println("Exclude last position: ", arr[:len(arr)-1]) // [1, 2, 3, 4]
+	fmt.Println("Last position: ", arr[len(arr)-1])          // 5
 
 	arr[0] = 10                     // When change the original array the slice var will change:
 	fmt.Println("vSlice: ", vSlice) // [10, 2]
@@ -49,4 +51,9 @@ func SlicesDataTypes() {
 	vArrSlice := make([]string, 6)
 	fmt.Println("vArrSlice", vArrSlice)    // [      ]
 	fmt.Println("vArrSlice", vArrSlice[0]) // [ ]
+}
+
+func main() {
+	SlicesRunesAndStrings()
+	SlicesDataTypes()
 }

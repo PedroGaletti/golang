@@ -1,4 +1,4 @@
-package loops
+package main
 
 import (
 	"bufio"
@@ -11,9 +11,11 @@ import (
 	"time"
 )
 
+// for initialization; condition;
+// postStatement {BODY}
+
 func Loops() {
-	// for initialization; condition;
-	// postStatement {BODY}
+	fmt.Println("\nLoops func:")
 	for x := 1; x <= 5; x++ {
 		fmt.Println(x)
 	}
@@ -30,17 +32,19 @@ func Loops() {
 }
 
 func While() {
+	fmt.Println("\nWhile func:")
 	seedSecs := time.Now().Unix()
 	rand.Seed(seedSecs)
 	randNum := rand.Intn(51) // Generate a random number
 	for true {
-		fmt.Print("Guess a number between 0 and 50: ")
-		fmt.Println("Random number is: ", randNum)
+		fmt.Print("Guess a number between 0 and 50: \n")
 		reader := bufio.NewReader(os.Stdin)   // Create a new Reader to read the terminal
 		guess, err := reader.ReadString('\n') // Read what the user typed in the terminal
 		if err != nil {
 			log.Fatal(err)
 		}
+
+		fmt.Println("Random number is: ", randNum)
 
 		guess = strings.TrimSpace(guess)   // Remove all the spaces in the start and the end
 		iGuess, err := strconv.Atoi(guess) // Converts the string into int
@@ -59,8 +63,15 @@ func While() {
 }
 
 func Ranges() {
+	fmt.Println("\nRanges func:")
 	nums := []int{1, 2, 3}
 	for _, num := range nums {
 		fmt.Println(num)
 	}
+}
+
+func main() {
+	Loops()
+	While()
+	Ranges()
 }

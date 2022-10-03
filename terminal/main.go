@@ -1,4 +1,4 @@
-package terminal
+package main
 
 import (
 	"bufio"
@@ -42,4 +42,9 @@ func Use() {
 	}
 
 	fmt.Println("Max value: ", max)
+}
+
+func main() {
+	GetUsername()
+	Use()
 }

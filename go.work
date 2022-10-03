@@ -1,0 +1,29 @@
+go 1.19
+
+use ./arrays
+
+use ./comment
+
+use ./conditional
+
+use ./datatype
+
+use ./fileio
+
+use ./functions
+
+use ./loops
+
+use ./maths
+
+use ./pointers
+
+use ./runes
+
+use ./slices
+
+use ./string
+
+use ./terminal
+
+use ./times

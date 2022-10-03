@@ -1,4 +1,4 @@
-package arrays
+package main
 
 import "fmt"
 
@@ -28,4 +28,8 @@ func Arrays() {
 			fmt.Println(arr3[i][x])
 		}
 	}
+}
+
+func main() {
+	Arrays()
 }

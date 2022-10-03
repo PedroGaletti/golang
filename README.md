@@ -10,24 +10,25 @@ It's **Cross platform**, have the **Memory freed automatically**, **Many built-i
 
 ## About
 
-This repository is dedicated to my Golang study, but if you want to contribute with some content, feel free.
+I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
 
 I put these contents:
 
-- [arrays](https://github.com/PedroGaletti/golang/tree/main/arrays) - To study how works with arrays
-- [comment](https://github.com/PedroGaletti/golang/tree/main/comment) - To study how works with comments
-- [conditional](https://github.com/PedroGaletti/golang/tree/main/conditional) - To study the conditionals and logical operators
-- [datatype](https://github.com/PedroGaletti/golang/tree/main/datatype) - To study the datatypes that are possible to use in Golang
-- [fileio](https://github.com/PedroGaletti/golang/tree/main/fileio) - To study how manage files using Golang
-- [functions](https://github.com/PedroGaletti/golang/tree/main/functions) - To study how to create functions and work with params
-- [loops](https://github.com/PedroGaletti/golang/tree/main/loops) - To study how to use the loops in Golang
-- [maths](https://github.com/PedroGaletti/golang/tree/main/maths) - To study what I can do with the math lib of Golang
-- [pointers](https://github.com/PedroGaletti/golang/tree/main/pointers) - To study how manage pointers and vars in Golang
-- [runes](https://github.com/PedroGaletti/golang/tree/main/runes) - To study this specific datatype (rune) in Golang
-- [slices](https://github.com/PedroGaletti/golang/tree/main/slices) - To study how I can use the slices in Golang
-- [strings](https://github.com/PedroGaletti/golang/tree/main/strings) - To study all I can learn about the strings in Golang
-- [terminal](https://github.com/PedroGaletti/golang/tree/main/terminal) - To study how I can use the terminal and capture things from it
-- [times](https://github.com/PedroGaletti/golang/tree/main/times) - To study the time lib in Golang
+- [arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - To study how works with arrays
+- [comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - To study how works with comments
+- [conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - To study the conditionals and logical operators
+- [datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - To study the datatypes that are possible to use in Golang
+- [fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - To study how manage files using Golang
+- [functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - To study how to create functions and work with params
+- [loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - To study how to use the loops in Golang
+- [maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang
+- [pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - To study how manage pointers and vars in Golang
+- [runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - To study this specific datatype (rune) in Golang
+- [slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - To study how I can use the slices in Golang
+- [string](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - To study all I can learn about the strings in Golang
+- [terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - To study how I can use the terminal and capture things from it
+- [times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
+- [makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
 
 ## Gists
 
@@ -36,3 +37,17 @@ I put these contents:
 - [Remove digits from string in Golang (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
 - [Solving count bits in Golang / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
 - [FizzBuzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
+
+## How to use
+
+I'm using golang 1.19, and since golang 1.18 we can work with **go.work**, so to use and see the things that I implemented, it's necessary to run the following command:
+
+```
+go run ${module that you want}
+```
+
+Like:
+
+```
+go run maths
+```

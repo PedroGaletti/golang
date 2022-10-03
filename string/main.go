@@ -1,11 +1,11 @@
-package strings
+package main
 
 import (
 	"fmt"
 	"strings"
 )
 
-func FStrings() {
+func Strings() {
 	sv1 := "Some word"
 	replacer := strings.NewReplacer("Some", "Another")                         // Creating a new replacer func that replace "Some" to "Another"
 	sv2 := replacer.Replace(sv1)                                               // Calling Replace func from replacer
@@ -23,4 +23,8 @@ func FStrings() {
 	fmt.Println("Lowercase: ", strings.ToUpper(sv3))              // Turn the string into uppercase
 	fmt.Println("Prefix: ", strings.HasPrefix("tacocat", "taco")) // Check the preffix
 	fmt.Println("Suffix: ", strings.HasSuffix("tacocat", "cat"))  // Check the suffix
+}
+
+func main() {
+	Strings()
 }

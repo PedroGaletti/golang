@@ -1,4 +1,4 @@
-package runes
+package main
 
 import (
 	"fmt"
@@ -14,4 +14,8 @@ func Runes() {
 	for i, runeVal := range rStr {
 		fmt.Printf("%d : %#U : %c\n", i, runeVal, runeVal) // Print the index, unicode, character
 	}
+}
+
+func main() {
+	Runes()
 }
