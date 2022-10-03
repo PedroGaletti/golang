@@ -12,23 +12,21 @@ It's **Cross platform**, have the **Memory freed automatically**, **Many built-i
 
 I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
 
-I put these contents:
-
-- [arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - To study how works with arrays
-- [comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - To study how works with comments
-- [conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - To study the conditionals and logical operators
-- [datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - To study the datatypes that are possible to use in Golang
-- [fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - To study how manage files using Golang
-- [functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - To study how to create functions and work with params
-- [loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - To study how to use the loops in Golang
-- [maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang
-- [pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - To study how manage pointers and vars in Golang
-- [runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - To study this specific datatype (rune) in Golang
-- [slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - To study how I can use the slices in Golang
-- [string](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - To study all I can learn about the strings in Golang
-- [terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - To study how I can use the terminal and capture things from it
-- [times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
-- [makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
+- [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - To study how works with arrays
+- [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - To study how works with comments
+- [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - To study the conditionals and logical operators
+- [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - To study the datatypes that are possible to use in Golang
+- [Fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - To study how manage files using Golang
+- [Functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - To study how to create functions and work with params
+- [Loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - To study how to use the loops in Golang
+- [Maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang
+- [Pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - To study how manage pointers and vars in Golang
+- [Runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - To study this specific datatype (rune) in Golang
+- [Slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - To study how I can use the slices in Golang
+- [String](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - To study all I can learn about the strings in Golang
+- [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - To study how I can use the terminal and capture things from it
+- [Times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
+- [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
 
 ## Gists
 
