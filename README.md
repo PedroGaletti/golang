@@ -32,3 +32,11 @@ $PROJECT_ROOT
 ├── times # To study the time lib in Golang
 └── main.go # Entry point
 ```
+
+## Gists
+
+- [Modify string in Golang / Hacker Rank exercise](https://gist.github.com/PedroGaletti/f293c73a4fa696dfd11a76972e3db6e0)
+- [Two sum - my answer (LeetCode)](https://gist.github.com/PedroGaletti/ab48bf2414391ae1b2badb0627f55dfb)
+- [Remove digits from string in Golang (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
+- [Solving count bits in Golang / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
+- [Solving of FizzBuzz in Golang](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
