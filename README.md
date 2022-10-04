@@ -13,12 +13,14 @@ It's **Cross platform**, have the **Memory freed automatically**, **Many built-i
 I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
 
 - [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - Learn how to work with arrays
+- [Channels](https://github.com/PedroGaletti/golang/tree/main/channels/main.go) - Studt how to create channels in Golang
 - [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - Study how to work with comments
 - [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - Study the conditionals and logical operators
 - [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - Learn how to use constraints in Golang
 - [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - Datatypes that are possible to use in Golang
 - [Fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - How manage files using Golang
 - [Functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - How to create functions and work with params
+- [Interfaces](https://github.com/PedroGaletti/golang/tree/main/interfaces/main.go) - How to create interfaces
 - [Loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - How to use the loops in Golang
 - [Maps](https://github.com/PedroGaletti/golang/tree/main/maps/main.go) - How I can work with the maps in Golang
 - [Maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang

@@ -2,6 +2,8 @@ go 1.19
 
 use ./arrays
 
+use ./channels
+
 use ./comment
 
 use ./conditional
@@ -13,6 +15,8 @@ use ./datatype
 use ./fileio
 
 use ./functions
+
+use ./interfaces
 
 use ./loops
 

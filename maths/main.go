@@ -76,8 +76,8 @@ func Converts() {
 
 	/*
 		Other maths functions:
-		Cos, Tan, Acos, Asin, Atan, Asinh, Acosh, Atanh, Atan2, Cosh, Sinh, Sincos
-		Htpot
+		Cos, Tan, Acos, Asin, Atan, Asinh, Acosh,
+		Atanh, Atan2, Cosh, Sinh, Sincos Htpot
 	*/
 }
 
