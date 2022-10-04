@@ -6,6 +6,8 @@ use ./comment
 
 use ./conditional
 
+use ./constraints
+
 use ./datatype
 
 use ./fileio
@@ -13,6 +15,8 @@ use ./fileio
 use ./functions
 
 use ./loops
+
+use ./maps
 
 use ./maths
 
@@ -23,6 +27,8 @@ use ./runes
 use ./slices
 
 use ./string
+
+use ./structs
 
 use ./terminal
 
