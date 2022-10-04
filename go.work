@@ -30,6 +30,12 @@ use ./mutex
 
 use ./pointers
 
+use ./recursive
+
+use ./regex
+
+use ./routines
+
 use ./runes
 
 use ./slices

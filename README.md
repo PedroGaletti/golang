@@ -27,6 +27,9 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang
 - [Mutex](https://github.com/PedroGaletti/golang/tree/main/mutex/main.go) - To study what I can do Mutex and Lock in Golang
 - [Pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - How manage pointers and vars in Golang
+- [Recursive](https://github.com/PedroGaletti/golang/tree/main/recursive/main.go) - How to create recursive functions in Golang
+- [Regex](https://github.com/PedroGaletti/golang/tree/main/regex/main.go) - How manage strings and regex funcs in Golang
+- [Routines](https://github.com/PedroGaletti/golang/tree/main/routines/main.go) - Learn how to create go routines
 - [Runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - Learn this specific datatype (rune) in Golang
 - [Slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - How I can use the slices in Golang
 - [String](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - Learn how to manage and work with strings in Golang
