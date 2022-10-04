@@ -6,8 +6,6 @@ use ./channels
 
 use ./closures
 
-use ./comment
-
 use ./conditional
 
 use ./constraints
@@ -45,5 +43,7 @@ use ./string
 use ./structs
 
 use ./terminal
+
+use ./tests
 
 use ./times

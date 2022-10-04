@@ -15,7 +15,6 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - Learn how to work with arrays
 - [Channels](https://github.com/PedroGaletti/golang/tree/main/channels/main.go) - Study how to create channels in Golang
 - [Closures](https://github.com/PedroGaletti/golang/tree/main/closures/main.go) - Learn how to create closures and use it
-- [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - Study how to work with comments
 - [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - Study the conditionals and logical operators
 - [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - Learn how to use constraints in Golang
 - [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - Datatypes that are possible to use in Golang
@@ -35,6 +34,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [String](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - Learn how to manage and work with strings in Golang
 - [Structs](https://github.com/PedroGaletti/golang/tree/main/structs/main.go) - How I can use structs in Golang
 - [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - How I can use the terminal and capture things from it
+- [Tests](https://github.com/PedroGaletti/golang/tree/main/tests/main.go) - How I can create automate tests
 - [Times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
 - [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
 - [.GitIgnore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - A exemple of .gitignore file to golang
@@ -59,4 +59,10 @@ Like:
 
 ```
 go run maths
+```
+
+To see the **tests** package run:
+
+```
+cd tests && go test -v
 ```

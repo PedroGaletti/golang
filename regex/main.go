@@ -7,8 +7,8 @@ import (
 
 func RegexFuncs() {
 	str := "The ape was at the apex"
-	match, _ := regexp.MatchString("(ape[ˆ ]?", str)
-	fmt.Println("match =", match) // match = false
+	match, _ := regexp.MatchString("ape[ˆ ]?", str)
+	fmt.Println("match =", match) // match = true
 
 	sStr := "Cat rat mat fat pat"
 	r, _ := regexp.Compile("[Crmfp]at")
