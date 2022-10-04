@@ -12,22 +12,22 @@ It's **Cross platform**, have the **Memory freed automatically**, **Many built-i
 
 I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
 
-- [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - To study how works with arrays
-- [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - To study how works with comments
-- [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - To study the conditionals and logical operators
-- [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - To study how to use constraints in Golang
-- [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - To study the datatypes that are possible to use in Golang
-- [Fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - To study how manage files using Golang
-- [Functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - To study how to create functions and work with params
-- [Loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - To study how to use the loops in Golang
-- [Maps](https://github.com/PedroGaletti/golang/tree/main/maps/main.go) - To study how I can work with the maps in Golang
+- [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - Learn how to work with arrays
+- [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - Study how to work with comments
+- [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - Study the conditionals and logical operators
+- [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - Learn how to use constraints in Golang
+- [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - Datatypes that are possible to use in Golang
+- [Fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - How manage files using Golang
+- [Functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - How to create functions and work with params
+- [Loops](https://github.com/PedroGaletti/golang/tree/main/loops/main.go) - How to use the loops in Golang
+- [Maps](https://github.com/PedroGaletti/golang/tree/main/maps/main.go) - How I can work with the maps in Golang
 - [Maths](https://github.com/PedroGaletti/golang/tree/main/maths/main.go) - To study what I can do with the math lib of Golang
-- [Pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - To study how manage pointers and vars in Golang
-- [Runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - To study this specific datatype (rune) in Golang
-- [Slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - To study how I can use the slices in Golang
-- [String](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - To study all I can learn about the strings in Golang
-- [Structs](https://github.com/PedroGaletti/golang/tree/main/structs/main.go) - To study how I can use structs in Golang
-- [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - To study how I can use the terminal and capture things from it
+- [Pointers](https://github.com/PedroGaletti/golang/tree/main/pointers/main.go) - How manage pointers and vars in Golang
+- [Runes](https://github.com/PedroGaletti/golang/tree/main/runes/main.go) - Learn this specific datatype (rune) in Golang
+- [Slices](https://github.com/PedroGaletti/golang/tree/main/slices/main.go) - How I can use the slices in Golang
+- [String](https://github.com/PedroGaletti/golang/tree/main/string/main.go) - Learn how to manage and work with strings in Golang
+- [Structs](https://github.com/PedroGaletti/golang/tree/main/structs/main.go) - How I can use structs in Golang
+- [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - How I can use the terminal and capture things from it
 - [Times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
 - [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
 - [.GitIgnore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - A exemple of .gitignore file to golang
