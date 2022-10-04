@@ -4,6 +4,8 @@ use ./arrays
 
 use ./channels
 
+use ./closures
+
 use ./comment
 
 use ./conditional

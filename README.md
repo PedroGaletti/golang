@@ -13,7 +13,8 @@ It's **Cross platform**, have the **Memory freed automatically**, **Many built-i
 I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
 
 - [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - Learn how to work with arrays
-- [Channels](https://github.com/PedroGaletti/golang/tree/main/channels/main.go) - Studt how to create channels in Golang
+- [Channels](https://github.com/PedroGaletti/golang/tree/main/channels/main.go) - Study how to create channels in Golang
+- [Closures](https://github.com/PedroGaletti/golang/tree/main/closures/main.go) - Learn how to create closures and use it
 - [Comment](https://github.com/PedroGaletti/golang/tree/main/comment/main.go) - Study how to work with comments
 - [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - Study the conditionals and logical operators
 - [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - Learn how to use constraints in Golang
