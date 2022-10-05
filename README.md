@@ -1,8 +1,9 @@
 ## Golang
 
-It's easy to understand and write the code (easy to write good code), and probably if you program perfectly, your application will be fast than others because you are using Golang, but with Golang you don't need to have to worry about doing everything perfectly just writing good code your application will be faster.
+It's easy to understand and write the code (easy to write good code), and probably if you program perfectly, your application will be fast than others because you are using Golang, but with Golang you don't need to have to worry about doing everything perfectly because if you writing good code your application will be faster.
 
-It's **Cross platform**, have the **Memory freed automatically**, **Many built-in features**, **Strong typing**, **Fast compile times** and have many other benefits.
+
+It's **Cross-platform**, has **Memory freed automatically**, **Many built-in features**, **Strong typing**, **Fast compile times**, and many other benefits.
 
 ## Stack
 
