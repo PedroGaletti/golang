@@ -54,6 +54,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Remove digits from string in Golang (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
 - [Solving count bits in Golang / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
 - [FizzBuzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
+- [PlusMinus / Hacker Rank exercise](https://gist.github.com/PedroGaletti/8ddaf0553ff22364b7ef8ae7fed8f59f)
 
 ## How to use
 
