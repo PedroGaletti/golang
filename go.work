@@ -12,6 +12,8 @@ use ./constraints
 
 use ./datatype
 
+use ./exame
+
 use ./fileio
 
 use ./functions

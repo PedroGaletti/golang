@@ -5,6 +5,12 @@ It's easy to understand and write the code (easy to write good code), and probab
 
 It's **Cross-platform**, has **Memory freed automatically**, **Many built-in features**, **Strong typing**, **Fast compile times**, and many other benefits.
 
+## Why Golang?
+
+- Go code is pragmatically designed. Every feature and syntax decision is engineered to make life easier for the programmer.
+- Golang is optimized for concurrency and works well at scale.
+- Golang is often considered more readable than other languages due to a single standard code format.
+
 ## Stack
 
 - [Golang](https://go.dev) - Build fast, reliable, and efficient software at scale
@@ -19,6 +25,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Conditional](https://github.com/PedroGaletti/golang/tree/main/conditional/main.go) - Study the conditionals and logical operators
 - [Constraints](https://github.com/PedroGaletti/golang/tree/main/constraints/main.go) - Learn how to use constraints in Golang
 - [Datatype](https://github.com/PedroGaletti/golang/tree/main/datatype/main.go) - Datatypes that are possible to use in Golang
+- [Exame](https://github.com/PedroGaletti/golang/tree/main/exame/main.go) - A lot of questions with answers that you can study Golang
 - [Fileio](https://github.com/PedroGaletti/golang/tree/main/fileio/main.go) - How manage files using Golang
 - [Functions](https://github.com/PedroGaletti/golang/tree/main/functions/main.go) - How to create functions and work with params
 - [Interfaces](https://github.com/PedroGaletti/golang/tree/main/interfaces/main.go) - How to create interfaces

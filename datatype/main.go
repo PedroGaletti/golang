@@ -7,8 +7,25 @@ import (
 )
 
 /*
-	Datatypes: int, float64, bool, string, rune
-	Default values: 0, 0.0, false, ""
+	Datatypes: [
+		int,
+		float64,
+		boolean,
+		string,
+		rune,
+		method,
+		numeric,
+		array,
+		slice,
+		struct,
+		pointer,
+		function,
+		interface,
+		map,
+		channel
+	]
+
+	Default values: 0 (int), 0.0 (float), false (bool), "" (string)
 
 	%d: Integer
 	%c: Character
@@ -19,6 +36,8 @@ import (
 	%x: Base 16
 	%v: Guesses based on data type
 	%T: Type of supplied value
+
+	Any data type allows to group items of possibly different types into a single type.
 */
 
 func MainDataTypes() {
