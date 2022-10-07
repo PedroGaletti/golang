@@ -58,6 +58,10 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Hash Table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
 - [Golang embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
 
+## Websites
+
+- [Learn Golang](https://aprendagolang.com.br) - It's a PT/BR website, but the subjects are interesting and helpful to learn Golang.
+
 ## How to use
 
 I'm using golang 1.19, and since golang 1.18 we can work with **go.work**, so to use and see the things that I implemented, it's necessary to run the following command:
