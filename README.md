@@ -2,7 +2,6 @@
 
 It's easy to understand and write the code (easy to write good code), and probably if you program perfectly, your application will be fast than others because you are using Golang, but with Golang you don't need to have to worry about doing everything perfectly because if you writing good code your application will be faster.
 
-
 It's **Cross-platform**, has **Memory freed automatically**, **Many built-in features**, **Strong typing**, **Fast compile times**, and many other benefits.
 
 ## Why Golang?
@@ -44,19 +43,19 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Terminal](https://github.com/PedroGaletti/golang/tree/main/terminal/main.go) - How I can use the terminal and capture things from it
 - [Tests](https://github.com/PedroGaletti/golang/tree/main/tests/main.go) - How I can create automate tests
 - [Times](https://github.com/PedroGaletti/golang/tree/main/times/main.go) - To study the time lib in Golang
-- [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - A exemple of makefile to golang
-- [.GitIgnore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - A exemple of .gitignore file to golang
+- [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - An example of makefile.
+- [.Gitignore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - An example of .gitignore file
 
 ## Gists
 
-- [Modify string in Golang / Hacker Rank exercise](https://gist.github.com/PedroGaletti/f293c73a4fa696dfd11a76972e3db6e0)
+- [Modify string / Hacker Rank exercise](https://gist.github.com/PedroGaletti/f293c73a4fa696dfd11a76972e3db6e0)
 - [Two sum / LeetCode exercise](https://gist.github.com/PedroGaletti/ab48bf2414391ae1b2badb0627f55dfb)
-- [Remove digits from string in Golang (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
-- [Solving count bits in Golang / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
-- [FizzBuzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
-- [PlusMinus / Hacker Rank exercise](https://gist.github.com/PedroGaletti/8ddaf0553ff22364b7ef8ae7fed8f59f)
-- [Hash Table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
-- [Golang embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
+- [Remove digits from string (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
+- [Solving count bits / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
+- [Fizz buzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
+- [Plus minus / Hacker Rank exercise](https://gist.github.com/PedroGaletti/8ddaf0553ff22364b7ef8ae7fed8f59f)
+- [Hash table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
+- [Embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
 
 ## Websites
 
