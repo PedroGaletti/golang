@@ -56,6 +56,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [FizzBuzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
 - [PlusMinus / Hacker Rank exercise](https://gist.github.com/PedroGaletti/8ddaf0553ff22364b7ef8ae7fed8f59f)
 - [Hash Table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
+- [Golang embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
 
 ## How to use
 
