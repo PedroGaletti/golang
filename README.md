@@ -57,6 +57,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Hash table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
 - [Embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
 - [Linked list](https://gist.github.com/PedroGaletti/314e2104a3921cc9b6767bef69a82af4)
+- [Stack](https://gist.github.com/PedroGaletti/89a4e3d78ad200ea85427e515ff4adfa)
 
 ## Websites
 
