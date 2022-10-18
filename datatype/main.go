@@ -8,11 +8,14 @@ import (
 
 /*
 	Datatypes: [
-		int,
-		float64,
+		int, int8, int16, int32, int64,
+		uint, uint8, uint16, uint32, uint64, uintptr,
+		float32, float64,
 		boolean,
 		string,
-		rune,
+		byte, // alias for uint8
+		rune, // alias for int32 // represents a Unicode code point
+		complex64, complex128,
 		method,
 		numeric,
 		array,
@@ -22,7 +25,7 @@ import (
 		function,
 		interface,
 		map,
-		channel
+		channel,
 	]
 
 	Default values: 0 (int), 0.0 (float), false (bool), "" (string)
