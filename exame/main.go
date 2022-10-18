@@ -71,6 +71,9 @@ A: No, Golang doesn't no support genreric programming
 
 23. What is the purpose of goto statement?
 A: goto transfers control to the labeled statement and a label is a string and is created by setting a semicolon after the label.
+
+24. Is Golang passed by value or reference?
+A: Pass by value, this is also true for all structs that aren't passed as a pointer.
 */
 
 func main() {

@@ -58,10 +58,12 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
 - [Linked list](https://gist.github.com/PedroGaletti/314e2104a3921cc9b6767bef69a82af4)
 - [Stack](https://gist.github.com/PedroGaletti/89a4e3d78ad200ea85427e515ff4adfa)
+- [Queue](https://gist.github.com/PedroGaletti/5c6b8afc13ab34ebbb2bf4bdd6c3f70f)
 
 ## Websites
 
 - [Learn Golang](https://aprendagolang.com.br) - It's a PT/BR website, but the subjects are interesting and helpful to learn Golang.
+- [Folder Struct](https://github.com/golang-standards/project-layout) - This is a basic layout for Go application projects. (It's not an official).
 
 ## How to use
 
