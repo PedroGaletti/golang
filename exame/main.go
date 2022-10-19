@@ -74,6 +74,24 @@ A: goto transfers control to the labeled statement and a label is a string and i
 
 24. Is Golang passed by value or reference?
 A: Pass by value, this is also true for all structs that aren't passed as a pointer.
+
+25. What is variables?
+A: It's a reserved space of memory to store some value
+
+25. What is closure in golang?
+A: A function that references variables outside of its scope
+
+26. What is scope golang?
+A: It's an area of the program where an item (be it variable, constant, function) that has an identifier name is recognized
+
+27. What is slice in Golang?
+A: Slice is a variable-length sequence which stores elements of a similar type, you are not allowed to store different type of elements in the same slice.
+It is just like an array having an index value and length, but the size of the slice is resized they are not in fixed-size just like an array
+
+Golang is compiled, we need generate a binare to execute it in production ambient.
+With go run you can use local, but this is compiled and use this local binare to execute in the memory
+Go is Strongest typing
+Go doesn't have the concept of prediction object
 */
 
 func main() {
