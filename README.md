@@ -59,6 +59,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Linked list](https://gist.github.com/PedroGaletti/314e2104a3921cc9b6767bef69a82af4)
 - [Stack](https://gist.github.com/PedroGaletti/89a4e3d78ad200ea85427e515ff4adfa)
 - [Queue](https://gist.github.com/PedroGaletti/5c6b8afc13ab34ebbb2bf4bdd6c3f70f)
+- [Generics](https://gist.github.com/PedroGaletti/9e4f7fe3aa95b26b66c4fb9e3dce580d)
 
 ## Websites
 
