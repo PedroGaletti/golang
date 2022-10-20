@@ -16,11 +16,11 @@ Interfaces essentially act as placeholders for methods that will have multiple i
 A: The easiest way to format without printing is to use the fmt.Sprintf(), which returns a string without printing it.
 
 6. Explain the difference between concurrent and parallelism in Golang?
-A: Concurrency is when your program can handle multiple tasks at once while. Parallelism is when you program can execute multiple tasks at once using multiple processors.
+A: Concurrency is when your program can handle multiple tasks at once while. Parallelism is when your program can execute multiple tasks at once using multiple processors.
 Concurrency is a property of a program that allows you to have multiple tasks in progress at the same time, but not necessarily executing at the same time.
 Parallalism is a runtime property where two or more tasks are executed at the same time.
 Parallelism can therefore be a means to achieve the property of concurrency, but it's just one of many means available to you
-The key tools for concurrency in GOlang are goroutines and channels. Goroutines are concurrent lightweight threads while channels allow goroutines to communicate with each other during execution.
+The key tools for concurrency in GOlang are goroutines and channels.
 
 9. What are the differences between unbuffered and buffered channels?
 A: For unbuffered channel, the sender will block on the channel until the receiver receives the data from the channel,
@@ -41,10 +41,6 @@ A: No
 
 14. What Cap method does?
 A: The cap function returns the capacity of slice as how many elements it can be accomodate.
-
-15. About the interfaces:
-A: Go programming provides another data type called interfaces which represents a set of methods signatures.
-Struct data type implements these interfaces to have method definitions for the method signature of the interfaces.
 
 16. About the structs:
 A: To access any member of a structure, we use the member access operator ().
