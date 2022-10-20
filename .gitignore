@@ -1,12 +1,17 @@
 ### Visual Studio Code ###
-.vscode/
+.vscode
 
 ### Git ###
-.git/
+.git
+
+### envs ###
+.env
+.env.staging
+.env.production
 
 ### Other Files ###
-vendor/
-debug/
+vendor
+debug
 .DS_Store
 
 ### Binaries and Plugins ###
@@ -21,3 +26,8 @@ debug/
 
 ### Coverage output ###
 *.out
+*.coverprofile
+coverage.html
+
+### Build ###
+# name of your build application
