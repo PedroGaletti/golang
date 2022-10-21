@@ -46,14 +46,18 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Makefile](https://github.com/PedroGaletti/golang/tree/main/makefile) - An example of makefile.
 - [.Gitignore](https://github.com/PedroGaletti/golang/tree/main/.gitignore) - An example of .gitignore file
 
-## Gists
+## Gists Exercises
 
+- [Running sum of 1d array / LeetCode exercise](https://gist.github.com/PedroGaletti/e981ead83319828099f298dc7068ccb0)
 - [Two sum / LeetCode exercise](https://gist.github.com/PedroGaletti/ab48bf2414391ae1b2badb0627f55dfb)
 - [Order colors / LeetCode exercise](https://gist.github.com/PedroGaletti/9b3f81c5740ef087f37f81de9e425376)
 - [Modify string / Hacker Rank exercise](https://gist.github.com/PedroGaletti/f293c73a4fa696dfd11a76972e3db6e0)
 - [Solving count bits / Hacer Rank exercise](https://gist.github.com/PedroGaletti/97ad7f39dbcb81f92963c499581e6248)
 - [Fizz buzz / Hacker Rank exercise](https://gist.github.com/PedroGaletti/fd1fa4bf36f2a2e14d4f7ea924337a62)
 - [Plus minus / Hacker Rank exercise](https://gist.github.com/PedroGaletti/8ddaf0553ff22364b7ef8ae7fed8f59f)
+
+## Gists Tips
+
 - [Remove digits from string (Regex)](https://gist.github.com/PedroGaletti/ac2e106d6808079c27fb6c4f364137c8)
 - [Hash table](https://gist.github.com/PedroGaletti/630f3d5f343a74b386c1e0325516e783)
 - [Embed example](https://gist.github.com/PedroGaletti/d8fc0710980eb28f97b555f9be6aee10)
