@@ -1,5 +1,7 @@
 ## Golang
 
+**Warning**: I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
+
 It's easy to understand and write the code (easy to write good code), and probably if you program perfectly, your application will be fast than others because you are using Golang, but with Golang you don't need to have to worry about doing everything perfectly because if you writing good code your application will be faster.
 
 It's **Cross-platform**, has **Memory freed automatically**, **Many built-in features**, **Strong typing**, **Fast compile times**, and many other benefits.
@@ -14,9 +16,7 @@ It's **Cross-platform**, has **Memory freed automatically**, **Many built-in fea
 
 - [Golang](https://go.dev) - Build fast, reliable, and efficient software at scale
 
-## About
-
-I dedicated this repository to my Golang study, but if you want to contribute with some content, feel free.
+## Content
 
 - [Arrays](https://github.com/PedroGaletti/golang/tree/main/arrays/main.go) - Learn how to work with arrays
 - [Channels](https://github.com/PedroGaletti/golang/tree/main/channels/main.go) - Study how to create channels in Golang
@@ -70,7 +70,7 @@ I dedicated this repository to my Golang study, but if you want to contribute wi
 - [Queue](https://gist.github.com/PedroGaletti/5c6b8afc13ab34ebbb2bf4bdd6c3f70f)
 - [Generics](https://gist.github.com/PedroGaletti/9e4f7fe3aa95b26b66c4fb9e3dce580d)
 
-## Websites
+## Usefull Websites
 
 - [Learn Golang](https://aprendagolang.com.br) - It's a PT/BR website, but the subjects are interesting and helpful to learn Golang.
 - [Folder Struct](https://github.com/golang-standards/project-layout) - This is a basic layout for Go application projects. (It's not an official).
